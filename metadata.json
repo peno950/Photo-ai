@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "A web application developed by RIGARIx that generates images from text descriptions using an advanced AI model. Users can specify a style, aspect ratio, and the number of images to create, then view and download the results in stunning 8K quality.",
+  "requestFramePermissions": []
+}
